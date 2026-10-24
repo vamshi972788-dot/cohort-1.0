@@ -1,5 +1,5 @@
 
-Git init-[ek project em ek bar git init karna hota he]
+Git init-[ek project me ek bar git init karna hota he]
 
 Git add.
 
