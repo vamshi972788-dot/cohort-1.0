@@ -1,0 +1,16 @@
+
+authentication 
+=>register(1.user ka data save karna 2.user ko token dena)
+=>login
+=>logout(token balcklisting)
+=>(otp based registeration)
+
+=>post
+=>create
+=>can seethe feed
+=>li8kes posts(collection types)
+=>save post
+
+=>users
+=>follwers
+=>following
