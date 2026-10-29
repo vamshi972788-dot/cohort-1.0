@@ -1,0 +1,8 @@
+UI ==> UI dekhana and navegation kar vana(pages,companetes)
+
+HOOKS ==> state and api ko manage karna[hooks]
+
+state ==> data store karana[auth.context.jsx]
+
+API ==> backend se communication kar ne ke liye[services/auth.api.jsx]
+
